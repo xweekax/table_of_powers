@@ -1,0 +1,13 @@
+C:\devbuild4\table_of_powers\bin\Debug\netcoreapp3.1\table_of_powers.exe
+C:\devbuild4\table_of_powers\bin\Debug\netcoreapp3.1\table_of_powers.deps.json
+C:\devbuild4\table_of_powers\bin\Debug\netcoreapp3.1\table_of_powers.runtimeconfig.json
+C:\devbuild4\table_of_powers\bin\Debug\netcoreapp3.1\table_of_powers.runtimeconfig.dev.json
+C:\devbuild4\table_of_powers\bin\Debug\netcoreapp3.1\table_of_powers.dll
+C:\devbuild4\table_of_powers\bin\Debug\netcoreapp3.1\table_of_powers.pdb
+C:\devbuild4\table_of_powers\obj\Debug\netcoreapp3.1\table_of_powers.csprojAssemblyReference.cache
+C:\devbuild4\table_of_powers\obj\Debug\netcoreapp3.1\table_of_powers.AssemblyInfoInputs.cache
+C:\devbuild4\table_of_powers\obj\Debug\netcoreapp3.1\table_of_powers.AssemblyInfo.cs
+C:\devbuild4\table_of_powers\obj\Debug\netcoreapp3.1\table_of_powers.csproj.CoreCompileInputs.cache
+C:\devbuild4\table_of_powers\obj\Debug\netcoreapp3.1\table_of_powers.dll
+C:\devbuild4\table_of_powers\obj\Debug\netcoreapp3.1\table_of_powers.pdb
+C:\devbuild4\table_of_powers\obj\Debug\netcoreapp3.1\table_of_powers.genruntimeconfig.cache
